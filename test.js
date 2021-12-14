@@ -85,3 +85,7 @@ console.log(_rnum);
 let iss = ["Paris","İstanbul","Viyana"];
 let _search = iss.indexOf("Viyana");
 console.log(_search);
+
+
+let nmm = [1,2,false];
+console.log(nmm.includes(0));
